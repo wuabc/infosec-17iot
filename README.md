@@ -9,7 +9,9 @@
   
   ppt：http://172.24.21.84/tool/ppt/《网络攻防案例教程》-高教社2/PPT/   （LAN）
   
-  网络课程：https://edu.51cto.com/course/3717.html
+  网络课程：https://edu.51cto.com/course/3717.html  作者演示讲解，全免费
+  
+  
   
   
   
