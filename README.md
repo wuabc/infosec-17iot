@@ -5,4 +5,12 @@
 
   《信息安全技术》每周3学时，第1-12周，共36学时，考试
 
-  教材：
+  教材：   http://www.hep.edu.cn/book/details?uuid=8a2bcaca-14a2-1000-95b6-3fafc67de19c
+  
+  ppt：http://172.24.21.84/tool/ppt/《网络攻防案例教程》-高教社2/PPT/   （LAN）
+  
+  网络课程：https://edu.51cto.com/course/3717.html
+  
+  
+  
+  
