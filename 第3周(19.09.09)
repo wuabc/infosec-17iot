@@ -1,0 +1,70 @@
+
+一. Squid 代理服务器
+1. squid简介
+2、借助webmin安装squid
+3、客户机设置代理，测试网络连接
+3、查看 Cache Manager Statistics ，验证连接情况
+       ---- Cache Client List
+       ---- IP Cache Stats and Contents
+
+二. wireshark
+
+三. ccproxy + wireshark
+
+
+
+0.可能需要的命令：
+
+#自动获取ip地址 
+ dhclient
+
+#查看ip地址
+  ip  addr
+
+#添加acl到防火墙 ， 允许 tcp 10000 通过 
+   sudo firewall-cmd --zone=public --permanent --add-port=10000/tcp
+   sudo firewall-cmd --reload 
+
+#关机
+  shutdown
+
+#重启
+   reboot
+
+
+1. webmin
+ service webmin status
+service webmin restart
+https://ip:10000
+
+2.docker
+service docker status
+service docker restart
+docker ps
+docker ps -a
+
+参考：https://github.com/wuabc/linux/blob/942701a84c9e1cbfbdfefd974cae3ea511744c3a/%E7%AC%AC14%E5%91%A8-docker
+
+
+3.discuz bbs 测试论坛
+
+启动论坛docker
+docker start bbs4mysql
+docker start mybbs
+
+访问论坛
+http://ip:88
+管理员账号： admin 
+密码：admin
+
+
+安装方式（参考、备用）：
+docker run --name bbs4mysql  -e MYSQL_ROOT_PASSWORD=toor -d  mysql:5
+docker run --name mybbs  --link bbs4mysql:mysql  -p 88:80  -d  skyzhou/docker-discuz
+
+
+
+
+
+
+
