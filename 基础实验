@@ -19,6 +19,13 @@
 
 ^ ^ : 关注浏览器插件、firefox、opera等各类浏览器产品的使用对比及测评
 
+
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC1%E5%91%A8(19.08.26).md
+
+
+
 ============================================================================================
 
 子项目2  数据隐写和加密
@@ -30,6 +37,14 @@
 2、将数据隐藏到音频文件中；
 
 3、将数据隐藏到视频文件中；
+
+参考链接： 
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC4%E5%91%A8(19.09.16).md
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC5%E5%91%A8(19.09.23).md
+
+
 
 ###  数据加密实验
 
@@ -49,6 +64,11 @@ Teamviewer
 
 UltraVNC
 
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC4%E5%91%A8(19.09.16).md
+
+
 ============================================================================================
 
 子项目4  代理服务器
@@ -57,7 +77,18 @@ UltraVNC
 
 1、cproxy代理服务设置； 
 
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC2%E5%91%A8(19.09.02).md
+
+
 2、squid代理服务设置； 
+
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC3%E5%91%A8(19.09.09).md
+
+
 
 ============================================================================================
 
@@ -103,9 +134,20 @@ http://172.24.21.84/tool/linux-slaxrouter-0.4.iso
 
 5、客户端数据安全防护；
 
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC7%E5%91%A8(2019.10.12).md
+
+
 ===========================================================================================
 
 子项目8 DVWA
+
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC9%E5%91%A8(19.10.28).md
+
+https://github.com/wuabc/infosec-17iot/blob/master/dvwa.md
 
 
 ===========================================================================================
