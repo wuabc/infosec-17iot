@@ -54,6 +54,7 @@ https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC5%E5%91%A8(19.09.23)
 
 2、应用对称加密算法对目标文本加密；
 
+
 ============================================================================================
 
 子项目3  远程控制 
@@ -104,6 +105,7 @@ https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC3%E5%91%A8(19.09.09)
 
 http://172.24.21.84/tool/linux-slaxrouter-0.4.iso
 
+
 ===========================================================================================
 
 子项目6  服务器运行服务分析 
@@ -117,6 +119,10 @@ http://172.24.21.84/tool/linux-slaxrouter-0.4.iso
 2、目标服务器开放服务分析，包括协议、端口；
 
 3、目标服务器流量分析；
+
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC3%E5%91%A8(19.09.09).md
 
 ===========================================================================================
 
@@ -165,4 +171,10 @@ http://172.24.21.84/tool/smoothwall-express-3.0-sp3-i386.iso
 ipfire
 
 https://www.ipfire.org
+
+参考链接：
+
+https://github.com/wuabc/infosec-17iot/blob/master/%E7%AC%AC12%E5%91%A8(2019.11.11).md
+
+
 
